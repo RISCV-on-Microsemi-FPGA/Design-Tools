@@ -15,4 +15,4 @@ This repository describes the design tools that you may need while working on Mi
 
 
 ## FlashPro
-The Flashpro is the In-System programming & debug hardware for Microsemi flash-based FPGAs & SoCs. The Microsemi FlashPro programming system is a combination of Microsemi's FlashPro software and a hardware programmers. For more details please click [here](https://www.microsemi.com/product-directory/programming/4977-flashpro)
+[FlashPro](https://www.microsemi.com/product-directory/programming/4977-flashpro) is the In-System programming & debug hardware for Microsemi flash-based FPGAs & SoCs. The Microsemi FlashPro programming system is a combination of Microsemi's FlashPro software and a hardware programmers.
